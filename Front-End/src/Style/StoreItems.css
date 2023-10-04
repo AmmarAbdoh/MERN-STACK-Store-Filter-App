@@ -1,0 +1,6 @@
+.store-div {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2vw;
+  margin: 0 auto;
+}
